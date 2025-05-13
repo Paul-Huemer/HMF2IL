@@ -1,0 +1,1 @@
+replace "app" folder with the "app" folder in fhooe-rails-dock
